@@ -20,14 +20,14 @@
 - 🏆 **Hackathon Achievements**: Runner-up at BNY Mellon & CIPR IDEATHON 2024, Finalist at GUVI Hackathon 2025
 - 📚 **IEEE Published Researcher** - Hybrid Ensemble Model for Oral Cancer Detection (ICNGCS 2025)
 - 👥 **Community Leadership**: DevOps Co-Lead at Google Developers Group
-- 🚀 **Passionate about**: Full-Stack Development, AI/ML, and DevOps Technologies
+- 🚀 **Passionate about**: Software Development, AI/ML Software Engineer
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
- <a href="https://linkedin.com/in/ravishankar-s">
+ <a href="https://www.linkedin.com/in/s-ravishankar/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href="mailto:ravishankarmitit@gmail.com">
